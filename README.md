@@ -1,0 +1,2 @@
+# somxai
+Dicee Challenge
